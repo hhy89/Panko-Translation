@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Be kell fejeznie az előző szinteket.</string>
+    <string name="level">Szint:</string>
+    <string name="howtoplay1">Az egyes négyzetek négy pontján négy pont található. Be kell töltened a pontokat a sarokban annyival, mint a négyzet közepén írt számot.</string>
+    <string name="howtoplay2">A megfelelő négyzetek zöldre változnak.</string>
+    <string name="howtoplay3">Ha minden négyzet helyes, akkor a szint befejeződött. Menj a másik szintre.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

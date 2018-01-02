@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Sinun täytyy lopettaa edelliset tasot.</string>
+    <string name="level">Taso:</string>
+    <string name="howtoplay1">Jokaisen neliön kulmassa on neljä pistettä. Sinun on täytettävä pisteessä nurkassa niin monta kuin neliön keskellä kirjoitettu numero.</string>
+    <string name="howtoplay2">Oikeat neliöt muuttuvat vihreiksi.</string>
+    <string name="howtoplay3">Jos kaikki neliöt ovat oikein, taso on valmis. Voit siirtyä toiseen tasoon.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

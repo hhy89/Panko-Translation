@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Əvvəlki səviyyələri bitirməli.</string>
+    <string name="level">Səviyyə:</string>
+    <string name="howtoplay1">Hər kvadratın küncündə dörd nöqtə var. Kvadratın ortasında yazılmış nömrə kimi çox nöqtəni doldurmaq lazımdır.</string>
+    <string name="howtoplay2">Düzgün kvadratlar yaşıl rəngə çevriləcək.</string>
+    <string name="howtoplay3">Bütün kvadratlar düzgündürsə, səviyyə tamamlanır. Digər səviyyəyə gələ bilərsiniz.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">你必须完成以前的水平。</string>
+    <string name="level">水平：</string>
+    <string name="howtoplay1">每个广场的角落有四个点。你需要在角落里填写和在广场中间写的数字一样多的点。</string>
+    <string name="howtoplay2">正确的方块会变成绿色。</string>
+    <string name="howtoplay3">如果所有的方格都是正确的，那么等级就完成了。你可以去另一层。</string>
+    <string name="xml_images">xml_images</string>
+</resources>

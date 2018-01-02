@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Πρέπει να ολοκληρώσετε τα προηγούμενα επίπεδα.</string>
+    <string name="level">Επίπεδο:</string>
+    <string name="howtoplay1">Υπάρχουν τέσσερις κουκίδες στη γωνία κάθε τετραγώνου. Πρέπει να γεμίσετε τις κουκίδες στη γωνία όσο και ο αριθμός που είναι γραμμένος στη μέση της πλατείας.</string>
+    <string name="howtoplay2">Τα σωστά τετράγωνα θα μετατραπούν σε πράσινο.</string>
+    <string name="howtoplay3">Εάν όλα τα τετράγωνα είναι σωστά, το επίπεδο έχει ολοκληρωθεί. Μπορείτε να μεταβείτε στο άλλο επίπεδο.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

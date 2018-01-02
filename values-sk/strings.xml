@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Musíte dokončiť predchádzajúce úrovne.</string>
+    <string name="level">úroveň:</string>
+    <string name="howtoplay1">Na rohu každého štvorca sú štyri body. Musíte vyplniť bodky v rohu rovnako ako číslo napísané uprostred štvorca.</string>
+    <string name="howtoplay2">Správne štvorčeky sa zmení na zelenú.</string>
+    <string name="howtoplay3">Ak sú všetky štvorce správne, úroveň je dokončená. Môžete prejsť na ďalšiu úroveň.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

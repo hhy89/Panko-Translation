@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Морате да завршите претходне нивое.</string>
+    <string name="level">Левел:</string>
+    <string name="howtoplay1">Постоје четири тачке на углу сваког квадрата. Морате попунити тачке у углу колико и број написан у средини квадрата.</string>
+    <string name="howtoplay2">Прави квадратиће ће постати зелени.</string>
+    <string name="howtoplay3">Ако су сви квадрати тачни, ниво је завршен. Можете ићи на други ниво.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

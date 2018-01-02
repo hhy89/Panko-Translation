@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Sie müssen die vorherigen Levels abschließen.</string>
+    <string name="level">Niveau:</string>
+    <string name="howtoplay1">Es gibt vier Punkte an der Ecke jedes Quadrats. Sie müssen die Punkte in der Ecke so viele wie die Zahl in der Mitte des Quadrats ausfüllen.</string>
+    <string name="howtoplay2">Die richtigen Quadrate werden grün.</string>
+    <string name="howtoplay3">Wenn alle Quadrate korrekt sind, ist das Level abgeschlossen. Sie können auf die andere Ebene gehen.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

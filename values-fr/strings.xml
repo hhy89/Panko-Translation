@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Vous devez terminer les niveaux précédents.</string>
+    <string name="level">Niveau:</string>
+    <string name="howtoplay1">Il y a quatre points au coin de chaque carré. Vous devez remplir les points dans le coin autant que le nombre écrit au milieu du carré.</string>
+    <string name="howtoplay2">Les cases correctes deviendront vertes.</string>
+    <string name="howtoplay3">Si tous les carrés sont corrects, le niveau est terminé. Vous pouvez aller à l'autre niveau.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

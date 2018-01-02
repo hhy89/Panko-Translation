@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Bạn phải hoàn thành các cấp trước đó.</string>
+    <string name="level">Cấp độ:</string>
+    <string name="howtoplay1">Có bốn chấm trên góc của mỗi hình vuông. Bạn cần phải điền vào các dấu chấm ở góc số như số lượng được viết ở giữa vuông.</string>
+    <string name="howtoplay2">Các ô chính xác sẽ biến thành màu xanh lá cây.</string>
+    <string name="howtoplay3">Nếu tất cả các ô vuông là chính xác, mức độ đã hoàn thành. Bạn có thể đi đến cấp độ khác.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

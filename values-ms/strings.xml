@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Anda perlu menyelesaikan tahap sebelumnya.</string>
+    <string name="level">Tahap:</string>
+    <string name="howtoplay1">Terdapat empat titik di sudut setiap persegi. Anda perlu mengisi titik-titik di sudut seberapa banyak nombor yang ditulis di tengah-tengah persegi.</string>
+    <string name="howtoplay2">Kuadrat yang betul akan berubah menjadi hijau.</string>
+    <string name="howtoplay3">Sekiranya semua dataran adalah betul, tahap itu selesai. Anda boleh pergi ke tahap yang lain.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

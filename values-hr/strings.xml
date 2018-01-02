@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Morate dovršiti prethodne razine.</string>
+    <string name="level">razina:</string>
+    <string name="howtoplay1">Na uglu svakog kvadrata nalaze se četiri točke. Trebate popuniti točkice u kutu koliko je broj ispisan na sredini trga.</string>
+    <string name="howtoplay2">Točni kvadrati će se pretvoriti u zelenu boju.</string>
+    <string name="howtoplay3">Ako su svi kvadrati ispravni, razina je dovršena. Možete ići na drugu razinu.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

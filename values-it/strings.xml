@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Devi finire i livelli precedenti.</string>
+    <string name="level">Livello:</string>
+    <string name="howtoplay1">Ci sono quattro punti sull'angolo di ogni quadrato. È necessario riempire i punti nell'angolo tante quante il numero scritto al centro del quadrato.</string>
+    <string name="howtoplay2">I quadrati corretti diventeranno verdi.</string>
+    <string name="howtoplay3">Se tutti i quadrati sono corretti, il livello è completato. Puoi andare all'altro livello.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">Trebuie să terminați nivelurile anterioare.</string>
+    <string name="level">Nivel:</string>
+    <string name="howtoplay1">Există patru puncte în colțul fiecărui pătrat. Trebuie să umpleți punctele în colț cât mai multe decât cele scrise în mijlocul patratului.</string>
+    <string name="howtoplay2">Pătrările corecte se vor transforma în verde.</string>
+    <string name="howtoplay3">Dacă toate pătratele sunt corecte, nivelul este finalizat. Puteți merge la celălalt nivel.</string>
+    <string name="xml_images">xml_images</string>
+</resources>

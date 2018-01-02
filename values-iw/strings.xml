@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panko</string>
+    <string name="lockLevelError">אתה צריך לסיים את הרמות הקודמות.</string>
+    <string name="level">רָמָה:</string>
+    <string name="howtoplay1">יש ארבע נקודות בפינה של כל ריבוע. אתה צריך למלא את הנקודות בפינה רבים כמו המספר שנכתב באמצע הכיכר.</string>
+    <string name="howtoplay2">הריבועים הנכונים יהפכו לירוקים.</string>
+    <string name="howtoplay3">אם כל הריבועים נכונים, הרמה הושלמה. אתה יכול ללכת לרמה אחרת.</string>
+    <string name="xml_images">xml_images</string>
+</resources>
