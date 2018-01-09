@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Du måste slutföra tidigare nivåer.</string>
+    <string name="stage">Skede:</string>
     <string name="level">Nivå:</string>
+    <string name="wrongBox">Välj för felaktiga rutor:</string>
+    <string name="correctBox">Välj för korrekta rutor:</string>
     <string name="howtoplay1">Det finns fyra prickar på hörnet av varje kvadrat. Du måste fylla prickarna i hörnet så många som numret som är skrivet i mitten av kvadraten.</string>
     <string name="howtoplay2">De korrekta rutorna blir gröna.</string>
     <string name="howtoplay3">Om alla rutor är korrekta, är nivån klar. Du kan gå till den andra nivån.</string>

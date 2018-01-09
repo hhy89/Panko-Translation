@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Вы должны закончить предыдущие уровни.</string>
+    <string name="stage">Стадия:</string>
     <string name="level">Уровень:</string>
+    <string name="wrongBox">Выберите неправильные поля:</string>
+    <string name="correctBox">Выберите правильные поля:</string>
     <string name="howtoplay1">На углу каждого квадрата есть четыре точки. Вам нужно заполнить точки в углу столько же, сколько число, записанное в середине квадрата.</string>
     <string name="howtoplay2">Правильные квадраты превратятся в зеленый.</string>
     <string name="howtoplay3">Если все квадраты верны, уровень завершен. Вы можете перейти на другой уровень.</string>

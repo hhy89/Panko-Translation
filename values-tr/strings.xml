@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Önceki seviyeleri bitirmeniz gerekmektedir.</string>
+    <string name="stage">Kategori:</string>
     <string name="level">Seviye:</string>
+    <string name="wrongBox">Yanlış kare rengini seçiniz:</string>
+    <string name="correctBox">Doğru kare rengini seçiniz:</string>
     <string name="howtoplay1">Her karenin 4 köşesinde noktalar bulunmakta. Karenin içinde yazan sayı kadar köşelerinde bulunan noktaları aktif etmeniz gerekmekte.</string>
     <string name="howtoplay2">Doğru olan kareler yeşil renge dönecektir.</string>
     <string name="howtoplay3">Tüm kareler doğru olursa seviye tamamlanmış demektir. Diğer seviyeye geçebilirsiniz.</string>

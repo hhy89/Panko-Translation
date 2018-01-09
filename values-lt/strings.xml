@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Jūs turite baigti ankstesnius lygius.</string>
+    <string name="stage">Etapas:</string>
     <string name="level">Lygis:</string>
+    <string name="wrongBox">Pasirinkite neteisingus langelius:</string>
+    <string name="correctBox">Pasirinkite teisingus langelius:</string>
     <string name="howtoplay1">Kiekvieno aikštės kampe yra keturi taškai. Turite užpildyti taškus kampe tiek, kiek skaičių, parašytų aikštės viduryje.</string>
     <string name="howtoplay2">Teisingos aikštės pasuks žaliu.</string>
     <string name="howtoplay3">Jei visi kvadratai yra teisingi, lygis yra baigtas. Galite pereiti į kitą lygį.</string>

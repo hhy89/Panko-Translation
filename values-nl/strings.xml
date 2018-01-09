@@ -2,8 +2,11 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Je moet de vorige levels voltooien.</string>
+    <string name="stage">Stadium:</string>
     <string name="level">Niveau:</string>
-    <string name="howtoplay1">Er zijn vier punten op de hoek van elk vierkant. U moet de puntjes in de hoek net zo vaak vullen als het aantal dat in het midden van het vierkant staat geschreven.</string>
+    <string name="wrongBox">Selecteer voor verkeerde vakken:</string>
+    <string name="correctBox">Selecteer voor de juiste vakken:</string>
+    <string name="howtoplay1">Er zijn vier punten op de hoek van elk vierkant. Je moet de puntjes in de hoek net zo vaak vullen als het aantal dat in het midden van het vierkant staat geschreven.</string>
     <string name="howtoplay2">De correcte vierkanten worden groen.</string>
     <string name="howtoplay3">Als alle vierkanten correct zijn, is het niveau voltooid. Je kunt naar het andere niveau gaan.</string>
     <string name="xml_images">xml_images</string>

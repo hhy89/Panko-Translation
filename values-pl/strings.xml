@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Musisz ukończyć poprzednie poziomy.</string>
+    <string name="stage">Etap:</string>
     <string name="level">Poziom:</string>
+    <string name="wrongBox">Wybierz dla złych pól:</string>
+    <string name="correctBox">Wybierz odpowiednie pola:</string>
     <string name="howtoplay1">Na rogu każdego kwadratu znajdują się cztery kropki. Musisz wypełnić kropki w rogu tak wiele, jak liczba zapisana w środku kwadratu.</string>
     <string name="howtoplay2">Prawidłowe kwadraty zmienią kolor na zielony.</string>
     <string name="howtoplay3">Jeśli wszystkie kwadraty są poprawne, poziom jest zakończony. Możesz przejść na inny poziom.</string>

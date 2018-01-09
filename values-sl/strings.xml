@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Končati morate prejšnje ravni.</string>
+    <string name="stage">Stopnja:</string>
     <string name="level">Raven:</string>
+    <string name="wrongBox">Izberi za napačna polja:</string>
+    <string name="correctBox">Izberite za pravilne polja:</string>
     <string name="howtoplay1">Na vsakem kvadratku so štiri pike. V kotu morate zapolniti pike toliko, kolikor je številka napisana sredi kvadrata.</string>
     <string name="howtoplay2">Pravilni kvadrati bodo postali zeleni.</string>
     <string name="howtoplay3">Če so vsi kvadrati pravilni, je nivo končan. Lahko greš na drugo raven.</string>

@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Jums ir jāpabeidz iepriekšējie līmeņi.</string>
+    <string name="stage">Posms:</string>
     <string name="level">Līmenis:</string>
+    <string name="wrongBox">Izvēlieties nepareizu lodziņu:</string>
+    <string name="correctBox">Izvēlieties pareizo lodziņu:</string>
     <string name="howtoplay1">Katrā kvadrāta stūrī ir četri punkti. Tev jāaizpilda punkti stūrī tik daudz kā kvadrāta vidū rakstīts skaitlis.</string>
     <string name="howtoplay2">Pareizais kvadrātiņš kļūs zaļš.</string>
     <string name="howtoplay3">Ja visi laukumi ir pareizi, līmenis ir pabeigts. Jūs varat doties uz otru līmeni.</string>

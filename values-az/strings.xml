@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Əvvəlki səviyyələri bitirməli.</string>
+    <string name="stage">Mərhələ:</string>
     <string name="level">Səviyyə:</string>
+    <string name="wrongBox">Yanlış qutuları seçin:</string>
+    <string name="correctBox">Doğru qutuları seçin:</string>
     <string name="howtoplay1">Hər kvadratın küncündə dörd nöqtə var. Kvadratın ortasında yazılmış nömrə kimi çox nöqtəni doldurmaq lazımdır.</string>
     <string name="howtoplay2">Düzgün kvadratlar yaşıl rəngə çevriləcək.</string>
     <string name="howtoplay3">Bütün kvadratlar düzgündürsə, səviyyə tamamlanır. Digər səviyyəyə gələ bilərsiniz.</string>

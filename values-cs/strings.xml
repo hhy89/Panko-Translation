@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Musíte dokončit předchozí úrovně.</string>
+    <string name="stage">Etapa:</string>
     <string name="level">Úroveň:</string>
+    <string name="wrongBox">Vybrat pro nesprávná pole:</string>
+    <string name="correctBox">Vybrat pro správná pole:</string>
     <string name="howtoplay1">Na rohu každého čtverce jsou čtyři tečky. Musíte vyplňovat tečky v rohu stejně jako číslo napsané uprostřed čtverce.</string>
     <string name="howtoplay2">Správné čtverečky se změní na zelenou.</string>
     <string name="howtoplay3">Pokud jsou všechny čtverce správné, úroveň je dokončena. Můžete jít na druhou úroveň.</string>

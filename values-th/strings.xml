@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">คุณต้องจบระดับก่อนหน้านี้</string>
+    <string name="stage">เวที:</string>
     <string name="level">ระดับ:</string>
+    <string name="wrongBox">เลือกกล่องที่ไม่ถูกต้อง:</string>
+    <string name="correctBox">เลือกกล่องที่ถูกต้อง:</string>
     <string name="howtoplay1">มีสี่จุดที่มุมของแต่ละตาราง คุณต้องกรอกข้อมูลจุดในมุมให้มากที่สุดเท่าที่ตัวเลขที่เขียนขึ้นกลางตาราง</string>
     <string name="howtoplay2">สี่เหลี่ยมที่ถูกต้องจะกลายเป็นสีเขียว</string>
     <string name="howtoplay3">ถ้าสี่เหลี่ยมทั้งหมดถูกต้องระดับเสร็จสมบูรณ์ คุณสามารถไปที่ระดับอื่นได้</string>

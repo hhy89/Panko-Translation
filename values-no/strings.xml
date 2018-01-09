@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Du må fullføre de forrige nivåene.</string>
+    <string name="stage">Scene:</string>
     <string name="level">Nivå:</string>
+    <string name="wrongBox">Velg for feil bokser:</string>
+    <string name="correctBox">Velg for riktige bokser:</string>
     <string name="howtoplay1">Det er fire punkter på hjørnet av hver firkant. Du må fylle prikkene i hjørnet så mange som tallet skrevet midt på torget.</string>
     <string name="howtoplay2">De riktige rutene blir grønne.</string>
     <string name="howtoplay3">Hvis alle rutene er riktige, er nivået fullført. Du kan gå til det andre nivået.</string>

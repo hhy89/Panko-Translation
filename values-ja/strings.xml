@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">あなたは以前のレベルを終了しなければなりません。</string>
+    <string name="stage">ステージ：</string>
     <string name="level">レベル：</string>
+    <string name="wrongBox">間違ったボックスを選択：</string>
+    <string name="correctBox">正しいボックスを選択：</string>
     <string name="howtoplay1">各四角の角には4つの点があります。あなたは角の真ん中に書かれた数字の数だけ点を埋める必要があります。</string>
     <string name="howtoplay2">正方形が緑色に変わります。</string>
     <string name="howtoplay3">すべての四角が正しければ、レベルが完了します。あなたは他のレベルに行くことができます。</string>

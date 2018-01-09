@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">Tienes que terminar los niveles anteriores.</string>
+    <string name="stage">Escenario:</string>
     <string name="level">Nivel:</string>
+    <string name="wrongBox">Seleccione para casillas incorrectas:</string>
+    <string name="correctBox">Seleccione para las casillas correctas:</string>
     <string name="howtoplay1">Hay cuatro puntos en la esquina de cada cuadrado. Debe completar los puntos en la esquina tantos como el número escrito en el medio del cuadrado.</string>
     <string name="howtoplay2">Los cuadrados correctos se volverán verdes.</string>
     <string name="howtoplay3">Si todos los cuadrados son correctos, el nivel se completa. Puedes ir al otro nivel.</string>

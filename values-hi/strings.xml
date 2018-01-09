@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">आपको पिछले स्तरों को समाप्त करना होगा।</string>
+    <string name="stage">मंच:</string>
     <string name="level">स्तर:</string>
+    <string name="wrongBox">गलत बॉक्स के लिए चयन करें:</string>
+    <string name="correctBox">सही बॉक्स के लिए चयन करें:</string>
     <string name="howtoplay1">प्रत्येक वर्ग के कोने पर चार बिंदु हैं। आपको कोने में बिन्दुओं को भरने की आवश्यकता होती है, जितनी संख्या वर्ग के मध्य में लिखे गए हैं।</string>
     <string name="howtoplay2">सही वर्ग हरे रंग में बदल जाएगा</string>
     <string name="howtoplay3">यदि सभी वर्ग सही हैं, तो स्तर पूरा हो गया है। आप दूसरे स्तर पर जा सकते हैं</string>
