@@ -2,7 +2,10 @@
 <resources>
     <string name="app_name">Panko</string>
     <string name="lockLevelError">You have to finish the previous levels.</string>
+    <string name="stage">Stage:</string>
     <string name="level">Level:</string>
+    <string name="wrongBox">Select for wrong boxes:</string>
+    <string name="correctBox">Select for correct boxes:</string>
     <string name="howtoplay1">There are four dots on corner of each square. You need to fill the dots in the corner as many as the number written in the middle of square.</string>
     <string name="howtoplay2">The correct squares will turn into green.</string>
     <string name="howtoplay3">If all the squares are correct, the level is completed. You can go to the other level.</string>
